@@ -1,5 +1,9 @@
 # :rocket: my-vimrc :heart:
 
+<p align="center">
+  <img src="image/screenshot-vim.png" />
+<p>
+
 No is complete yet :sob:,
 But i will update gradually this repository to share more about this incredible code editor.:sunglasses:
 
@@ -37,13 +41,13 @@ Type this in your terminal:
 ```
 Now install this packages of fonts [Powerline](https://powerline.readthedocs.io/en/master/installation.html)
 
-### :pencil: KeyBinds
+### KeyBinds
 
-Quit -> **Ctrl+q**
-Save file ->  **Ctrl+s** (*only mode normal*)
+Quit -> **Ctrl+q**<br />
+Save file ->  **Ctrl+s** (*only mode normal*)<br />
 Open tree directory: **Ctrl+e** (*only mode normal*)
 
-### :memo: Plugins used
+### Plugins used
 
 - [Vim-airline](https://github.com/vim-airline/vim-airline)
 - [Vim-Fugitive](https://github.com/tpope/vim-fugitive)
